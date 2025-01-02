@@ -318,6 +318,16 @@ h6 {
   box-shadow: 0px 0 18px rgba(0, 0, 0, 0.1);
 }
 
+.justified-text {
+  text-align: justify; /* Mengatur teks agar rata kanan dan kiri */
+}
+.justified-list {
+  text-align: justify; /* Mengatur teks agar rata kanan dan kiri */
+}
+
+.justified-list li {
+  margin-bottom: 10px; /* Tambahkan jarak antar item list jika diperlukan */
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
